@@ -1,0 +1,13 @@
+alembic==1.17.0
+fastapi==0.120.0
+numpy==2.3.4
+pandas==2.3.3
+psycopg2==2.9.11
+pydantic==2.12.3
+pydantic-settings==2.11.0
+pytest==8.4.2
+python-dotenv==1.2.0
+python-multipart==0.0.20
+scikit-learn==1.7.2
+SQLAlchemy==2.0.44
+uvicorn==0.38.0
