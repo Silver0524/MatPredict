@@ -88,7 +88,7 @@ def load_csv_data(csv_path: str):
         
         db.commit()
 
-        # Known innactive schools
+        # Known inactive schools
         inactive_schools = ["Boston U", "Boise State", "Eastern Michigan", 
                             "Old Dominion", "Fresno State"]
 
